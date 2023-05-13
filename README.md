@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HamidRafizadeh
 - 👀 I’m interested in machine learning and robotics for fabrication
-- 🌱 I’m currently learning machine learning and TensorFlow
+- 🌱 I’m currently learning machine learning and robotic arms
 - 📫 Reach me at: h.rafizadeh@gmail.com
 
 <!---
